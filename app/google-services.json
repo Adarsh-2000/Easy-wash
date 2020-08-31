@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138191145503",
+    "firebase_url": "https://easy-wash-6debe.firebaseio.com",
+    "project_id": "easy-wash-6debe",
+    "storage_bucket": "easy-wash-6debe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138191145503:android:f05b2ce12f220710e7232a",
+        "android_client_info": {
+          "package_name": "com.example.easywash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138191145503-i6nq2r0emfjk3r1icn6eg90kgnfs5jdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC60uYEHjMoweqyWNKLJNBV0u6_E44qwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138191145503-i6nq2r0emfjk3r1icn6eg90kgnfs5jdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

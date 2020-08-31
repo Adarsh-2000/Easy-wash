@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/white"
+    android:paddingLeft="15dp">
+
+    <TextView
+        android:id="@+id/menu_slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:text="Adarsh Car App" />
+
+    <TextView
+        android:id="@+id/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/menu_slogan"
+        android:fontFamily="@font/belgrano"
+        android:text="Adarsh Shrivastava"
+        android:textColor="?attr/actionModeSplitBackground"
+        android:textSize="24sp" />
+    <ImageView
+        android:layout_above="@id/app_name"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+         android:src="@drawable/local_car_wash_icon"/>
+    <ImageView
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_height="175dp"
+        android:layout_width="160dp"
+        android:src="@drawable/carlog" />
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/booking_icon"
+            android:title="Booking" />
+        <item
+            android:id="@+id/nav_booking_de"
+            android:icon="@drawable/bookingdetails_icon"
+            android:title="Booking Details" />
+
+    </group>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/login_icon"
+                    android:title="Login" />
+
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Setting">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_nightmode"
+                    android:icon="@drawable/night_mode_icon"
+                    android:title="Night Mode" />
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Share">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share_icon"
+                    android:title="share" />
+                <item
+                    android:id="@+id/nav_rate_us"
+                    android:icon="@drawable/review_icon"
+                    android:title="rate_us" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="About Us">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about_us"
+                android:title="About us" />
+            </group>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Clean Car</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_homee">Homee</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <string name="hotels">Hotel</string>
+    <string name="restaurnts">Restaurnts</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+
+    <string name="featured_locations">All Featured Location</string>
+    <string name="featured_location_decription">All the location that are featturd and have the top demand in town!</string>
+    <string name="most_viewed_location">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="light_white">@color/banner_background_light</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+
+    <!-- colours for intro activity -->
+    <color name="a">#ffffffff</color>
+    <color name="ad">#ffffffff</color>
+    <color name="adi">#ffffffff</color>
+
+    <!-- colours for button style -->
+    <color name="gradint_start_color">#4c04ff</color>
+    <color name="gradint_end_color">#10a3fe</color>
+
+    <!-- colours for tab and screen text-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_descripton_color">#656565</color>
+
+
+    <!-- Dashboard colors -->
+    <color name="home_background">#fff</color>
+    <color name="banner_background">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+
+    <color name="pro">#E91E63</color>
+</resources>
